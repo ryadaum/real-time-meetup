@@ -85,4 +85,6 @@ root
 
  |-- event_time: timestamp (nullable = true) 
  ```
- Then will process the data an aggregate the responses for each group and load the processed data into Mysql database to create a real-time dashboard(later on)
+ Then will process the data an aggregate the responses for each group and load the processed data into Mysql database.
+ 
+ Create a real-time dashboard(later on)
